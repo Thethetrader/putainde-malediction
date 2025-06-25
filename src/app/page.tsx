@@ -23,7 +23,7 @@ export default function Home() {
       {/* Quote Section */}
       <section className="pt-24 pb-8 px-4 bg-black">
         <div className="max-w-6xl mx-auto text-center">
-          <p className="text-gray-400 text-lg lg:text-xl italic leading-relaxed">
+          <p className="text-gray-400 text-xl lg:text-2xl italic leading-relaxed">
             "Paraît qu'chacun est roi dans son royaume. Pourtant, sur toi, ils veulent tous régner. J'vois des clowns posés sur des trônes. On prie des saints, mais silicones. La connerie crève la couche d'ozone, <span className="text-orange-500">les imbéciles rêvent de se cloner</span>..."
           </p>
         </div>
